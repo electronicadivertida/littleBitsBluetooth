@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+    <TextView android:id="@+id/device_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24dp"/>
+    <TextView android:id="@+id/device_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12dp"/>
+
+    <Button android:id="@+id/btnConectar"
+        android:text="@string/connected"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+    <CheckBox android:id="@+id/chkValor"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="Valor"
+     />                
+     <CheckBox android:id="@+id/chkSet"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="Set"              
+    />                
+</LinearLayout>

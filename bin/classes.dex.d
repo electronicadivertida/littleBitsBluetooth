@@ -1,0 +1,22 @@
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes.dex : \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/ScanDispositivosActivity$DeviceListAdapter.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/ViewDispositivo$ConnectAsyncTask.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/ViewDispositivo.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/R$attr.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/R$dimen.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/R$menu.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/ViewDispositivo$2.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/BuildConfig.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/R$string.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/ViewDispositivo$ConnectedThread.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/R.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/ViewDispositivo$ConnectedThread$1.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/R$layout.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/ScanDispositivosActivity.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/ScanDispositivosActivity$1.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/ViewDispositivo$1.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/R$style.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/R$drawable.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/R$id.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/classes/com/electDiver/bluetooth/ScanDispositivosActivity$2.class \
+/home/d/programas/android/eclipse/littleBitsBluetooth/bin/dexedLibs/android-support-v4-95f6f637cdd716964f0c39cd6f3a0606.jar \
